@@ -4,7 +4,7 @@ public class Application {
 
 	public static void main(String[] args) {
 		
-		Person jonas = new Person();
+		Person jonasAndree86 = new Person();
 	}
 
 }
